@@ -30,4 +30,4 @@
 # Atrribution and license
 Designed by Matteo Scarsini for the Plant Nuclear and Dynamics Lab
 
-Skotobox © 2023 by Matteo Scarsini and Clara Richet-Bourbousse is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+Skotobox © 2023 by Matteo Scarsini and Clara Richet-Bourbousse is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [Visit our website](https://www.example.com)
