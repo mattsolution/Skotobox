@@ -2,7 +2,7 @@
 
 # Project description
 <p align="justify">The aim of the project was to design and construct custom containers for germinating Arabidopsis thaliana seedlings in a lightproof environment. These containers should be designed to prevent any external light from entering, ensuring a completely dark environment for seedling etiolation. Additionally, it is essential to maintain an atmosphere inside the container as similar as possible to the ambient conditions outside the Skotobox by allowing for adequate air exchange. In our case, the seedlings are placed on the culture medium within a 100 mm diameter Petri dish. Instead of utilizing the original lid of the dish, the base of a second dish is employed and securely sealed with surgical tape. This is essential to provide the necessary vertical space for the growth of the etioated seedlings.</p>
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="images/Skotobox_exploded.png" width="200px" />
 </div>
 
