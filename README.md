@@ -25,4 +25,9 @@
 
 # Building details
 <p align="justify">The lids have been 3D printed using an FMD printer and PLA as platic material (PETG can also be used). To save printing time, the Skotobox's pipe section has been constructed using a 110 mm PVC pipe, which is perfectly sized to accommodate the petri dishes. The length of the PVC pipe can be cut according to the need. A presize cut is recomanded to ensure a good light tightness. The top and bottom lids are identical, even though the top lid does not require stilts.</p>
-<a href="Skotobox_lid.STL" download>STL model download</a>
+<a href="Skotobox_lid.STL" download>STL model view</a>
+
+# Atrribution and license
+Designed by Matteo Scarsini for the Plant Nuclear and Dynamics Lab
+
+Skotobox © 2023 by Matteo Scarsini and Clara Richet-Bourbousse is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
