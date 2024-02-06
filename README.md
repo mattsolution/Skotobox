@@ -11,7 +11,7 @@
 <p align="justify">The Skotobox (Figure 1) is a cylindrical container consisting of two 3D-printed lids installed at the ends of a 110 mm PVC pipe, which can be cut according to user needs, tipically depending on the clearance between the bottom and top shelves in the  chamber. The design of the lids ensures a lightproof seal while allowing for proper air exchange through dedicated grooves in the two lids (Figure 2).</p>
   
 <p align="center">
-  <img src="images/Skotobox_exploded.png" width="300px" />
+  <img src="images/Skotobox_details.png" width="300px" />
 </div>
 <p align="center">Figure 1: An exploded view of the Skotobx</p>
   
