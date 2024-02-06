@@ -21,7 +21,7 @@
 <p align="center">
   <img src="images/Etiolated_Arabidopsis_seedlings.png" width="500px" />
 </div>
-<p align="center">Figure 3: Perfecly etiolatad <i> Arabidopsis thaliana <i/> seedlings. The etiolation has been performed with the Skotobox proving the efficiency on prefenting photons to reach the inside of the box. </p> 
+<p align="center">Figure 3: Perfecly etiolatad <i> Arabidopsis thaliana </i>i> seedlings. The etiolation has been performed with the Skotobox proving the efficiency on prefenting photons to reach the inside of the box. Image from the Plant Nuclear and Dynamics Lab </p> 
 
 
 
