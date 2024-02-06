@@ -23,5 +23,11 @@
 </div>
 <p align="center">Figure 3: Perfecly etiolatad <i> Arabidopsis thaliana </i> seedlings. The etiolation has been performed with the Skotobox proving the efficiency on prefenting photons to reach the inside of the box. Image from the Plant Nuclear and Dynamics Lab </p> 
 
+# 3D models and printing details
 
+## Recomended 3D printer:
+Any FMD printer
+
+## Recommended Materiel
+Black PLA or PETG
 
