@@ -1,12 +1,3 @@
-<!-- PROJECT BANNER -->
-<br />
-<div align="center">
-  <a href="">
-    <img src="images/Skotobox_banner.pngg" alt="Logo" width="80" height="80">
-  </a>
-
-
-
 ![alt banner](images/Skotobox_banner.png)
 
 # Project description
