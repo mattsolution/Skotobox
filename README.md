@@ -14,12 +14,9 @@
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start;">
-  <figure style="margin-right: 10px; position:relative;">
-    <img src="images/Skotobox_exploded.png" width="200px"/>
-    <figcaption style="text-align:center; position:absolute; bottom:0; width:100%;">An exploded view of the Skotobox</figcaption>
-  </figure>
-  <div>
-    <p style="margin-left: 220px;">Additional text on the right side of the figure can be added here.</p>
-  </div>
-</div>
+<img src="images/Skotobox_exploded.png" align="left" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
