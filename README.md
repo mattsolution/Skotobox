@@ -25,9 +25,9 @@
 
 # 3D models and printing details
 
-## Recomended 3D printer:
+Recomended 3D printer:
 Any FMD printer
 
-## Recommended Materiel
+Recommended Material:
 Black PLA or PETG
 
