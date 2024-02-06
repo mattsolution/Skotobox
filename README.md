@@ -29,7 +29,7 @@
 
 <a href="Skotobox_lid.STL" download>STL model view</a>
 
-# Atrribution and license
+# Attribution and license
 Designed by Matteo Scarsini for the Plant Nuclear and Dynamics Lab
 
 Skotobox © 2023 by Matteo Scarsini and Clara Richet-Bourbousse is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
