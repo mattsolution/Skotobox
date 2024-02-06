@@ -10,10 +10,3 @@
 
 Figure 1: An exploded view of the Skotobx
 
-<h2 style="font-size: 20px;">Heading 2</h2>
-<p style="font-size: 16px;">Some regular text.</p>
-<h3 style="font-size: 14px;">Heading 3</h3>
-<p style="font-size: 12px;">Some smaller text.</p>
-<h4 style="font-size: 10px;">Heading 4</h4>
-<p style="font-size: 8px;">Even smaller text.</p>
-
