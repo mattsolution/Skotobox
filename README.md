@@ -13,3 +13,14 @@
  Arabidopsis thaliana seedlings grown inside the Skotobox allowed a complete etiolation proving the efficiency the box (Figure 6). Compared to other methods of light shielding, such as aluminum foil, the Skotobox offers the advantage of establishing uniform complete darkness while maintaining effective air exchange while reducing usage of aluminum foil for sustainable science practices. </p>
   </div>
 </div>
+
+
+<div style="display:flex; align-items:flex-start;">
+  <figure style="margin-right: 10px; position:relative;">
+    <img src="images/Skotobox_exploded.png" width="200px"/>
+    <figcaption style="text-align:center; position:absolute; bottom:0; width:100%;">An exploded view of the Skotobox</figcaption>
+  </figure>
+  <div>
+    <p>Additional text on the right side of the figure can be added here.</p>
+  </div>
+</div>
