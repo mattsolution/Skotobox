@@ -25,3 +25,4 @@
 
 # Building details
 <p align="justify">The lids have been 3D printed using an FMD printer and PLA as platic material (PETG can also be used). To save printing time, the Skotobox's pipe section has been constructed using a 110 mm PVC pipe, which is perfectly sized to accommodate the petri dishes. The length of the PVC pipe can be cut according to the need. A presize cut is recomanded to ensure a good light tightness. The top and bottom lids are identical, even though the top lid does not require stilts.</p>
+<a href="myFile.js" download>Click to Download</a>
