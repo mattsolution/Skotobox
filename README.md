@@ -24,7 +24,9 @@
 <p align="center">Figure 3: Perfecly etiolatad <i> Arabidopsis thaliana </i> seedlings. The etiolation has been performed with the Skotobox proving the efficiency on prefenting photons to reach the inside of the box. Image from the Plant Nuclear and Dynamics Lab </p> 
 
 # Building details
-<p align="justify">The lids have been 3D printed using an FMD printer and PLA as platic material (PETG can also be used). To save printing time, the Skotobox's pipe section has been constructed using a 110 mm PVC pipe, which is perfectly sized to accommodate the petri dishes. The length of the PVC pipe can be cut according to the need. A presize cut is recomanded to ensure a good light tightness. The top and bottom lids are identical, even though the top lid does not require stilts.</p>
+<p align="justify">The lids have been 3D printed using an FMD printer and PLA as platic material (PETG can also be used). To save printing time, the Skotobox's pipe section has been constructed using a 110 mm PVC pipe, which is perfectly sized to accommodate the petri dishes. The length of the PVC pipe can be cut according to the need. A presize cut is recomanded to ensure a good light tightness. The top and bottom lids are identical, even though the top lid does not require stilts.
+3D models (STL and STEP) are freely available for use and modifcation under licence agreement.</p>
+
 <a href="Skotobox_lid.STL" download>STL model view</a>
 
 # Atrribution and license
