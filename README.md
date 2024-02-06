@@ -8,6 +8,13 @@
  Arabidopsis thaliana seedlings grown inside the Skotobox allowed a complete etiolation proving the efficiency the box (Figure 6). Compared to other methods of light shielding, such as aluminum foil, the Skotobox offers the advantage of establishing uniform complete darkness while maintaining effective air exchange while reducing usage of aluminum foil for sustainable science practices.</p>
 </div>
 
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+  <img src="images/Skotobox_exploded.png" alt="Image" width="550">
+  <div style="margin-right: 20px;">
+    <p>The Skotobox (Figure 1) is a cylindrical container consisting of two 3D-printed lids (Figure 3) installed at the ends of a 110 mm PVC pipe, which can be cut according to user needs, tipically depending on the clearance between the bottom and top shelves in the  chamber. The design of the lids ensures a lightproof seal while allowing for proper air exchange through dedicated grooves in the two  (Figure 3 and 4). Furthermore, the lids feature a specialized palisade-like structure (Figure 3) that has been demonstrated to effectively prevent condensation inside the Petri dishes.
+ Arabidopsis thaliana seedlings grown inside the Skotobox allowed a complete etiolation proving the efficiency the box (Figure 6). Compared to other methods of light shielding, such as aluminum foil, the Skotobox offers the advantage of establishing uniform complete darkness while maintaining effective air exchange while reducing usage of aluminum foil for sustainable science practices.</p>
+  </div>
+</div>
  
 <p align="justify">The Skotobox (Figure 1) is a cylindrical container consisting of two 3D-printed lids (Figure 3) installed at the ends of a 110 mm PVC pipe, which can be cut according to user needs, tipically depending on the clearance between the bottom and top shelves in the  chamber. The design of the lids ensures a lightproof seal while allowing for proper air exchange through dedicated grooves in the two  (Figure 3 and 4). Furthermore, the lids feature a specialized palisade-like structure (Figure 3) that has been demonstrated to effectively prevent condensation inside the Petri dishes.
  Arabidopsis thaliana seedlings grown inside the Skotobox allowed a complete etiolation proving the efficiency the box (Figure 6). Compared to other methods of light shielding, such as aluminum foil, the Skotobox offers the advantage of establishing uniform complete darkness while maintaining effective air exchange while reducing usage of aluminum foil for sustainable science practices. </p>
