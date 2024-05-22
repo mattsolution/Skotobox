@@ -29,7 +29,7 @@
 <a href="Skotobox_lid.STL" download>STL model view</a>
 
 # Attribution and license
-Designed by Matteo Scarsini for the Plant Nuclear Dynamics and Signaling Lab
+Designed by Matteo Scarsini for the [Plant Nuclear Dynamics and Signaling Lab](https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/Plant-Nucleus-Dynamics-Signaling)
 
 Skotobox © 2023 by Matteo Scarsini and Clara Richet-Bourbousse is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
