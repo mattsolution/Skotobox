@@ -28,6 +28,14 @@
 
 <a href="Skotobox_lid.STL" download>STL model view</a>
 
+# Compact version
+<p align="center">
+  <img src="images/Skotobox_compact.png" width="500px" />
+</div>
+<p align="justify">A compact version of the lid to allow to optimize space utilmization in the culture chambers </p>
+
+<a href="Skotobox_lid_compact.STL" download>STL model view</a>
+
 # Attribution and license
 Designed by Matteo Scarsini for the [Plant Nuclear Dynamics and Signaling Lab](https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/Plant-Nucleus-Dynamics-Signaling)
 
